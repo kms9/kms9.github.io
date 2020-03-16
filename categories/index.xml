@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>posts</title>
-      <link>http://example.org/categories/posts/</link>
+      <title>post</title>
+      <link>http://example.org/categories/post/</link>
       <pubDate>Sun, 15 Mar 2020 23:04:21 +0800</pubDate>
       
-      <guid>http://example.org/categories/posts/</guid>
+      <guid>http://example.org/categories/post/</guid>
       <description></description>
     </item>
     

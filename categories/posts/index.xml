@@ -13,10 +13,10 @@
     
     <item>
       <title>List</title>
-      <link>http://example.org/post/list/</link>
+      <link>http://example.org/post/one/</link>
       <pubDate>Sun, 15 Mar 2020 23:04:21 +0800</pubDate>
       
-      <guid>http://example.org/post/list/</guid>
+      <guid>http://example.org/post/one/</guid>
       <description>Hello Hugo  aaa bbb ccc  </description>
     </item>
     

@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>List</title>
-      <link>http://example.org/post/list/</link>
+      <title>第一个hugo blog</title>
+      <link>http://example.org/post/one/</link>
       <pubDate>Sun, 15 Mar 2020 23:04:21 +0800</pubDate>
       
-      <guid>http://example.org/post/list/</guid>
-      <description>Hello Hugo  aaa bbb ccc  </description>
+      <guid>http://example.org/post/one/</guid>
+      <description>Hello Hugo aaa bbb ccc</description>
     </item>
     
   </channel>
