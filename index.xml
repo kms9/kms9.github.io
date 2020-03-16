@@ -1,39 +1,204 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>开发kms的流水账 | 开发kms的流水账</title>
+        <title>记录流水账 | 记录流水账</title>
         <link>https://kms9.github.io/</link>
-        <description>开发kms的流水账 | 开发kms的流水账</description>
+        <description>记录流水账 | 记录流水账</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 16 Mar 2020 19:17:47 &#43;0800</lastBuildDate><atom:link href="https://kms9.github.io/" rel="self" type="application/rss+xml" /><item>
                 <title>关于这个blog</title>
                 <link>https://kms9.github.io/about-blog/</link>
                 <pubDate>Mon, 16 Mar 2020 19:17:47 &#43;0800</pubDate><guid>https://kms9.github.io/about-blog/</guid>
-                <description>&lt;p&gt;[TOC]&lt;/p&gt;
-&lt;h2 id=&#34;1-原因&#34;&gt;1. 原因&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;需要一个合适的地方 尽可能的减少资源占用的方式来记录流水信息 以及在开发设计其他系统中的思考和结果 所以选择了使用基于github pages的方式进行记录 
-&lt;/code&gt;&lt;/pre&gt;
+                <description>&lt;h2 id=&#34;1-原因&#34;&gt;1. 原因&lt;/h2&gt;
+&lt;p&gt;需要一个合适的地方 尽可能的减少资源占用的方式来记录流水信息 以及在开发设计其他系统中的思考和结果 所以选择了使用基于github pages的方式进行记录&lt;/p&gt;
 &lt;h2 id=&#34;2记录什么&#34;&gt;2.记录什么&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;曾经工作过的项目&lt;/li&gt;
-&lt;li&gt;一直持续投入思考的项目&lt;/li&gt;
-&lt;li&gt;构建其他额外系统的项目&lt;/li&gt;
-&lt;li&gt;产出整理知识点的思考记录&lt;/li&gt;
-&lt;li&gt;一些经常使用的碎片代码&lt;/li&gt;
-&lt;li&gt;一些读书的日常笔记&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;曾经工作过的项目&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一直持续投入思考的项目&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;构建其他额外系统的项目&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;产出整理知识点的思考记录&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一些经常使用的碎片代码&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一些读书的日常笔记&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;3-工作列表&#34;&gt;3. 工作列表&lt;/h2&gt;
+&lt;h2 id=&#34;3-记录的列表&#34;&gt;3. 记录的列表&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;曾经工作过的项目
-1.  基于canal的数据同步到es的项目
-2.  基于gocron的二次开发
-3.  分布式的下载服务
-4.  基于gin+vue的后台管理系统
-5.  基于go+jenkins+docker+rancher+k8s的持续集成项目
-6.&lt;/li&gt;
-&lt;li&gt;一直持续投入思考的项目&lt;/li&gt;
-&lt;li&gt;构建其他额外系统的项目&lt;/li&gt;
-&lt;li&gt;产出整理知识点的思考记录&lt;/li&gt;
-&lt;li&gt;一些经常使用的碎片代码&lt;/li&gt;
-&lt;li&gt;一些读书的日常笔记&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;曾经工作中开发过的项目&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;基于canal的数据同步到es的项目						         		         (当前)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于 elastic dsl查询到偏平json的通用搜索接口api			         (当前)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于gocron的二次开发							                                        (第五年)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于分布式的下载服务(基于 go-ipfs )						                       (第五年)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于go+jenkins+docker+rancher+k8s的持续集成项目		           (第四年)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于lua+redis的waf  auth系统							                                 (第四年)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于golang的分词,关键词推荐, 自动打标签系统				                  (第四年)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于lua+redis+php 的 高性能 通用秒杀/抽奖系统 			                 (第三年)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修改slim到c扩展 										                                               (第二年)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;完善yii2的gii生成 补充自定义搜索字段类型 以及 前端 restful接口        (第一年)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于php+redis+nodejs+socket.io的多频道实时bbs			                   (第一年)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;工作中负责过的工程&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;公司业务体系整体优化	(系统工程 较为复杂后续展开说明  涉及系统架构升级, php升级, mysql升级, 数据交互方式机制等  代码规模行数在百万级别  )&lt;/li&gt;
+&lt;li&gt;重点业务接口优化 (接入xhprof, zipkin, sniffer等 定位瓶颈点  重点优化)&lt;/li&gt;
+&lt;li&gt;基于binlog日志的数据多方法同步 以及搜索分级体系建设&lt;/li&gt;
+&lt;li&gt;数据解耦以及分发( 业务内产生消息推送用户多种类型+多渠道( 从redis list 升级到 mq+  msg-router  ) )&lt;/li&gt;
+&lt;li&gt;监控体系完善(从平台机器(zbbix),  系统组件(php nginx redis mysql),  业务数据(分级别的日志打点 以及自定义异常数据 报警)  filebeat+kafka+ elastic+watcher+altermange +(钉钉+企业微信) )&lt;/li&gt;
+&lt;li&gt;allinone业务 从 leancloud 迁移到 本地(  之前三端都自己完成业务逻辑, 迁移到后端实现  逐渐完善 基于微服务架构的  代码管理以及服务治理体系  从打包部署,  性能监控, 链路跟踪, debug的相关体系 )&lt;/li&gt;
+&lt;li&gt;php项目交接以及性能优化&lt;/li&gt;
+&lt;li&gt;小游戏/前段h5 排行版/展示 平台接入&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一直持续投入思考的项目&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;从小数据到大规模数据的数据模型的复杂搜索(  基于 通用oltp系统sql的搜索分级系统   )&lt;/li&gt;
+&lt;li&gt;不同数据源的灵活调度以及同步工具( datalinker )&lt;/li&gt;
+&lt;li&gt;基于元数据的 信息 灵活定制化写入和展示系统 ( 类似 tiddlywiki tiddlymap  anki )&lt;/li&gt;
+&lt;li&gt;低代码量业务生成系统( 类似leancloud 和  拖拽生成表单 以及   拖拽生产自定义页面   )&lt;/li&gt;
+&lt;li&gt;基于图数据库的无限连接的信息搜索系统( 所有的blog的文章节点 都对应于某个分布式思维导图中的一个点 语义网 )&lt;/li&gt;
+&lt;li&gt;基于无限分级/分类的标签进行不同维度的信息关联和展示&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;构建其他额外系统的项目&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;基于gin+vue的后台管理系统以及前台拖拽生成框架			     (当前)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于 &lt;em&gt;Leanote&lt;/em&gt; 的二次开发 从revel修改到gin框架			      (当前)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tiddlywiki 二次开发 完善( 增加权限控制 )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;thebrain 数据导出(导出到csv+anki卡片)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;anki 卡片导入工具(csv导入工具)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;微信聊天群机器人+ 实时同步到论坛( &lt;a href=&#34;https://wewe.t9t.io/&#34;&gt;https://wewe.t9t.io/&lt;/a&gt; )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于wecenter/we7/悟空crm的 通用信息管理系统( 单独部署的 给指定客户群发消息系统 )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于chrome扩展的标签收集插件&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;产出整理知识点的思考记录&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;php
+&lt;ol&gt;
+&lt;li&gt;yii2&lt;/li&gt;
+&lt;li&gt;swoole&lt;/li&gt;
+&lt;li&gt;扩展&lt;/li&gt;
+&lt;li&gt;加载机制&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;mysql
+&lt;ol&gt;
+&lt;li&gt;优化&lt;/li&gt;
+&lt;li&gt;同步机制&lt;/li&gt;
+&lt;li&gt;binlog&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;redis
+&lt;ol&gt;
+&lt;li&gt;数据结构&lt;/li&gt;
+&lt;li&gt;优化&lt;/li&gt;
+&lt;li&gt;扩展&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;golang
+&lt;ol&gt;
+&lt;li&gt;micro&lt;/li&gt;
+&lt;li&gt;gin&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;elastic
+&lt;ol&gt;
+&lt;li&gt;dsl&lt;/li&gt;
+&lt;li&gt;数据写入&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;lua
+&lt;ol&gt;
+&lt;li&gt;waf&lt;/li&gt;
+&lt;li&gt;限流&lt;/li&gt;
+&lt;li&gt;令牌桶&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;mq
+1.&lt;/li&gt;
+&lt;li&gt;kafka&lt;/li&gt;
+&lt;li&gt;openresty
+&lt;ol&gt;
+&lt;li&gt;lua&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;mongodb
+&lt;ol&gt;
+&lt;li&gt;递归搜索&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一些经常使用的碎片代码&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一些读书的日常笔记&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ddd&lt;/li&gt;
+&lt;li&gt;微服务&lt;/li&gt;
+&lt;li&gt;架构&lt;/li&gt;
+&lt;li&gt;k8s&lt;/li&gt;
+&lt;li&gt;pmp&lt;/li&gt;
+&lt;li&gt;kpi-&amp;gt;okr&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 </description>
             </item><item>
