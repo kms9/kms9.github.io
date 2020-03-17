@@ -210,13 +210,8 @@
                 <title>关于我自己</title>
                 <link>https://kms9.github.io/about/</link>
                 <pubDate>Sun, 15 Mar 2020 23:03:39 &#43;0800</pubDate><guid>https://kms9.github.io/about/</guid>
-                <description>&lt;h3 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;aaa&lt;/li&gt;
-&lt;li&gt;bbb&lt;/li&gt;
-&lt;li&gt;ccc&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;about my self&lt;/p&gt;
+                <description>&lt;h3 id=&#34;介绍一下我自己&#34;&gt;介绍一下我自己&lt;/h3&gt;
+&lt;p&gt;总是感觉可以做很多事情 但是结果总是做的不如意&lt;/p&gt;
 </description>
             </item></channel>
 </rss>
