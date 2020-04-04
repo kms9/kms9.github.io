@@ -1,0 +1,182 @@
+﻿学习路径规划,,
+Level 1,Level 2,Level 3
+网络,HTTP,
+,请求怎么从输入网址到展示内容,
+,tcp/ip,
+,浏览器工作原理,
+,DNS工作原理,
+,主机解析原理,
+前端基础知识,js,
+,css,
+,html,
+,ajax,
+,跨域,
+,压缩 ,
+,cdn,
+,安全,
+,前段缓存,
+,vue,
+OS系统 通用知识,终端常用命令,
+,操作系统原理,
+,进程管理,
+,线程管理,
+,常用命令,grep
+,,awk
+,,sed
+,,lsof
+,,curl
+,,wget
+,,tail
+,,head
+,,less
+,,find
+,,ssh
+,,kill
+,内存管理,
+,io模式,
+,POSIX通用接口,stdin
+,,stdout
+,,stderr
+,,pipes
+语言,go,
+,php,
+,lua,
+,java,
+,rust,
+,c,
+,python,
+,js,
+版本管理工具,git的基础使用,
+,github,
+,gitlab,
+,svn,
+关系数据库,mysql,
+,postgreSql,
+,MariaDB,
+,tidb,
+NoSql,MongoDB,
+,RockDb,
+,Redis,
+,CouchDB,
+,DynamoDB,
+,levelDb,
+数据库相关知识,ORMS,
+,ACID,
+,事务,
+,原子性操作,
+,数据序列化,
+,索引相关,慢索引定位
+,,怎么优化
+,,索引数据结构
+,,常用操作对应数据变动
+api-接口相关,rest,
+,json apis,
+,soap,
+,grpc,
+,thrift,
+,header,
+,open APi规范以swagger文档,yapi
+,,jmeter
+,,loadruner
+,,postman
+,授权,cookies
+,,Oauth
+,,BaseAuth
+,,TokenAuth
+,,jwt
+,,openId
+,,Saml
+缓存,CDN,
+,ServerSide,Redis
+,,Memcached
+,,Mem
+,,File
+,ClientSide,LocalCache
+,,FlexledDb
+,lru,
+web安全,md5,
+,open-ssl,
+,https,
+,sha,
+,对称加密,
+,常用攻击方式,
+,CORS,
+,ssl/tls,
+,同源策略,
+,OWASP 安全 RIsk,
+测试,单元测试,
+,覆盖率测试,
+,api测试,
+,性能测试,
+持续发布集成,shell,
+,Jenkins,
+,Walle,
+,docker,
+,对应包管理,
+,make,
+,ant,
+,k8s,
+设计和开发实践,开发常识,
+,设计模式,GOF设计模式
+,架构模式,
+,DDD建模,
+,测试驱动开发,
+,SOLID 面向对象设计,单一功能
+,,开闭原则
+,,依赖反转
+,,里氏替换
+,,接口隔离
+,KISS  简单原则,
+,YAGNI 避免创建你不要的代码,
+,DRY 避免重复原则,
+搜索引擎,elastic,
+,Solr,
+,子主题 3,
+,Mysql FullText,
+,bitmap,
+,Sphinx,
+,PostgreSQL内置全文搜索,
+,倒排索引原理,
+消息系统,rabbitMq,
+,kafka,
+,nsq,
+,nats,
+,mqtt,
+,redis xsteam,
+,内存消息,
+容器虚拟化,docker,
+,lxc,
+,rkt,
+,vargent,
+,vm,
+,kvm,
+GraphQL,apollo,
+Graph 数据库,neo4j,
+,ArangoDB,
+,Relay Modern,
+websockets,长链接网关,
+,webRTC,
+,socket.io,
+,心跳维持,
+web servers,Nginx,
+,apche,
+,caddy,
+,apisix,
+,kong,
+,openresty,
+分布式系统,cap原理,
+,raft ,
+,Paxos,
+,Zab,
+,其他系统集群策略,MongoDB
+,,elastic
+,,redis
+,,mysql mgr
+,应用,etcd
+,,consul
+,,zookeeper
+,理解差异,
+,合并策略,
+,动态模板扩缩容,slb
+,可观测性实时扩缩容,k8s
+,,istio
