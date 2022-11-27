@@ -1,14 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Series on 记录流水账</title>
-    <link>https://kms9.github.io/series/</link>
-    <description>Recent content in Series on 记录流水账</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    
-	<atom:link href="https://kms9.github.io/series/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Series - series - 一直学</title>
+        <link>https://kms9.github.io/series/</link>
+        <description>Series - series - 一直学</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://kms9.github.io/series/" rel="self" type="application/rss+xml" /></channel>
 </rss>

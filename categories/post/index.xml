@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>post on 记录流水账</title>
-    <link>https://kms9.github.io/categories/post/</link>
-    <description>Recent content in post on 记录流水账</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Mar 2020 23:04:21 +0800</lastBuildDate>
-    
-	<atom:link href="https://kms9.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>第一个hugo blog</title>
-      <link>https://kms9.github.io/posts/one/</link>
-      <pubDate>Sun, 15 Mar 2020 23:04:21 +0800</pubDate>
-      
-      <guid>https://kms9.github.io/posts/one/</guid>
-      <description>Hello Hugo aaa bbb ccc</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>post - 分类 - 一直学</title>
+        <link>https://kms9.github.io/categories/post/</link>
+        <description>post - 分类 - 一直学</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Mar 2020 23:04:21 &#43;0800</lastBuildDate><atom:link href="https://kms9.github.io/categories/post/" rel="self" type="application/rss+xml" /><item>
+    <title>第一个hugo blog</title>
+    <link>https://kms9.github.io/posts/one/</link>
+    <pubDate>Sun, 15 Mar 2020 23:04:21 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://kms9.github.io/posts/one/</guid>
+    <description><![CDATA[Hello Hugo aaa bbb ccc]]></description>
+</item>
+</channel>
 </rss>
