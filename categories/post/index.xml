@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>post - 分类 - 一直学</title>
+        <title>post - 分类 - Keep hungry,Keep stupid</title>
         <link>https://kms9.github.io/categories/post/</link>
-        <description>post - 分类 - 一直学</description>
+        <description>post - 分类 - Keep hungry,Keep stupid</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Mar 2020 23:04:21 &#43;0800</lastBuildDate><atom:link href="https://kms9.github.io/categories/post/" rel="self" type="application/rss+xml" /><item>
     <title>第一个hugo blog</title>
     <link>https://kms9.github.io/posts/one/</link>
